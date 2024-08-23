@@ -1,0 +1,8 @@
+[submodule "remote"]
+	path = remote
+	url = https://github.com/rahulsingh9118/testsubgit
+	branch = main
+[submodule "remotedev"]
+	path = remotedev
+	url = https://github.com/rahulsingh9118/testsubgit
+	branch = dev
